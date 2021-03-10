@@ -1,0 +1,20 @@
+﻿<settings>
+  <application>
+    <AlwaysOnTop>false</AlwaysOnTop>
+    <ListViewField>name</ListViewField>
+	  <LdapPathHome>DC=local,DC=corp,DC=domain,DC=com</LdapPathHome>
+  </application>
+  <filters>
+	<!--
+    <users>
+      <title>Show All</title>
+      <filter>(objectCategory=User)(objectClass=person)</filter>
+    </users>
+	-->
+	<users>
+		<title>By Name</title>
+		<filter>(objectCategory=User)(objectClass=person)(name=*%finder%*)</filter>
+		<viewfield>objectcategory</viewfield>
+	</users>
+  </filters>
+</settings>
