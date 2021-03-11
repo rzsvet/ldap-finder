@@ -2,7 +2,7 @@
 
 ![Ldap Filter Main Windows](https://lh3.googleusercontent.com/pw/ACtC-3dREs5xuSHkze_48AhmvWmGcigLDc9XG5dxmJfCpAUfzXMLbqmR6Atw5OgaJg7K8FObTKSMDzforsVXj01fM8cuB-reddnW_SOKDbS3fS9eORxrSNMGeRVwV0LLGAn8dIPyCziMfjXrB64pcrBjMa-I=w450-h70-no)
 
-Простое приложение, для Windows, которое позволяет осуществлять поиск по Ldap и производить формирование списков объектов удовлетворяющие Вашим параметрам.
+Простое приложение, для Windows, которое позволяет осуществлять поиск по Ldap и производить формирование списков объектов, удовлетворяющих Вашим параметрам.
 
 ## Основные требования
 1. Windows с поддержкой .Net Framework 4.5
